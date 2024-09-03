@@ -84,7 +84,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj1&theme=tokyonight" alt="mystreak"/>
 [![Kunj's GitHub | Stats](https://stats.quine.sh/kunj1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kunj1)
 ![](https://github-readme-streak-stats.herokuapp.com/?username=Kunj1&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunj1&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
