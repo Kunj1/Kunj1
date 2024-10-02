@@ -13,12 +13,13 @@
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
 | [VidStream](https://github.com/Kunj1/Youtube-clone)      | Youtube clone    |
-| [Shroud ](https://github.com/Kunj1/Shroud/tree/main)  | WFH verification backend |
+| [Shroud ](https://github.com/Kunj1/Shroud)  | Work From Home verification backend |
 | [NestJS-User-Contact-Management](https://github.com/Kunj1/NestJS-User-Contact-Management)               | Contact management website          |
+| [Book Rental System](https://github.com/Kunj1/Book-Rental-System)               | Book Rent Transactions Backend        |
 | [E-commerce](https://github.com/Kunj1/Ecommerce)      | Cart & OTP features of Ecommerce    |
 | [Transactions-App](https://github.com/Kunj1/Transactions-App)     | Bank transaction Management App  |
 | [PiGuard](https://github.com/Kunj1/RaspberryPi)    | Raspberry Pi face detection door lock     |
-| [The Continental](https://github.com/Kunj1/CompProject)     | Bank Management App  |
+| [The Continental](https://github.com/Kunj1/bank_management_system)     | Bank Management App  |
 
 
 
