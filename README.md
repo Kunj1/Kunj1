@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 About Me:
-### 🔭 Co-founder and Backend Lead at [Syntalix](https://www.syntalixai.in/).<br> 🌱 I’m currently learning DSA, Full Stack Development & Docker. <br> 📄 Check out my [resume](https://kunj1.github.io/Resume/Resume.pdf).
+### 🔭 Co-founder and Backend Lead at [Syntalix](https://www.syntalixai.in/).<br> 🌱 I’m currently learning DSA, Full Stack Development & Docker. <br> 📄 Check out my [resume](https://kunj1.github.io/Hosted/Resume.pdf).
 
 ## Projects:
 | Project Name                                               | Description                  |
