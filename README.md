@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="167" src="https://kunj1.github.io/Resume/Banner.png"  />
+  <img height="167" src="https://kunj1.github.io/Hosted/Banner.png"  />
 </div>
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hello👋<br/></h1>
 <p align="center">
