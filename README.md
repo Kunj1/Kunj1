@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 About Me:
-### 🔭 Co-founder and Backend Lead at [Syntalix](https://www.syntalixai.in/).<br> 🌱 I’m currently learning DSA, Full Stack Development & Docker. <br> 📄 Check out my [resume](https://kunj1.github.io/Hosted/Resume.pdf).
+### 💫Upcoming Summer Analyst'2025 at [Goldman Sachs](https://www.goldmansachs.com/).<br>🔭 Ex - Co-founder and Backend Lead at [Syntalix](https://syntalix-vite.vercel.app/).<br> 🌱 I’m currently learning DSA, Full Stack Development & Docker. <br> 📄 Check out my [resume](https://kunj1.github.io/Hosted/Kunj_Gupta_Resume.pdf).
 
 ## Projects:
 | Project Name                                               | Description                  |
